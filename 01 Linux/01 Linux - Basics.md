@@ -56,5 +56,22 @@ Linux sirf ek OS nahi, ek revolution hai** 💻🚀
 | 1992+       | Linux goes open-source (GPL)           |
 | 2000s–Today | Linux dominates servers, cloud, DevOps | -->
 
+<!-- 90% of the fastest 500 supercomputers run on a Linux variant.
+This includes all of the top 10 fastest supercomputers. -->
+
 ![alt text](<ss/Screenshot (52).png>)
 ![alt text](<ss/Screenshot (53).png>)
+
+<!-- 
+mkdir new_folder
+(Command & argument)
+ls
+(list down)
+cd
+
+cd /
+ls
+---- (bin - binaries)
+
+whoami
+ -->
